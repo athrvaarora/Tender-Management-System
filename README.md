@@ -126,8 +126,5 @@ Step 6: Check Running The Site At  <a Href="http://localhost:8083/tendermanageme
 Step 7: Default Username And Password For Admin Is "Admin" and "Admin" respectively. [Case-Sensitive]
 
 
-#### "Suggestions and project Improvements are always Invited!"
 
-<bold>Thanks a lot</bold><br/>
-                                                                                                        Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+
